@@ -1,25 +1,43 @@
-🔍 Project Overview:
-Designed a relational database and corresponding E-R diagram to model business operations for a hypothetical organization, defining entities, attributes, and relationships using crow’s foot notation to support data normalization and efficient storage.
-🧠 Key Responsibilities & Skills Demonstrated:
-Entity-Relationship Modeling:
-Defined key business entities such as Customers, Orders, Products, and Employees using table-based structures.
-Identified and labeled primary keys (PK) and foreign keys (FK) to establish relational integrity.
-Modeled relationships between entities (e.g., 1:Many, Many:1) with correct cardinality using crow’s foot notation.
-Schema Design & Normalization:
-Applied database normalization principles to eliminate redundancy and ensure data integrity.
-Used a star or snowflake schema as appropriate for the business context to enhance analytical performance.
-Diagram Development & Documentation:
-Created a digital E-R diagram using Lucidchart, PowerPoint, or Visio, adhering to industry-standard notation.
-Documented entity attributes, relationship directionality, and relational keys to support implementation by technical stakeholders.
-✅ Key Outcomes:
-Delivered a fully normalized relational database model with clear relationships and schema logic.
-Demonstrated proficiency in data modeling, entity design, and technical documentation for database architecture.
-Created a foundational structure to support scalable and query-efficient business data operations.
-Tools Used:
-Advanced Microsoft Excel: Utilized for data analysis, transformation, and visualization.
-Power Query: For efficient data extraction, transformation, and loading (ETL).
-Pivot Tables: To summarize, explore, and analyze large datasets interactively.
-What-If Analysis: Including Data Tables and Scenario Manager to model hypothetical business scenarios.
-Conditional Formatting & Dynamic Dashboards: For enhanced visual insights.
-VLOOKUP, INDEX-MATCH, IFERROR, and Nested Functions: For robust data manipulation and accuracy checks.
-#DatabaseDesign #ERDiagram #RelationalModeling #DataNormalization #CrowFootNotation #SQL #Lucidchart #BusinessIntelligence #EntityModeling #StarSchema #SnowflakeSchema #ETL #InformationArchitecture #Excel #PowerQuery #DataAnalysis #DynamicDashboards
+**🔍 Project Overview:**
+
+Simulated a comprehensive financial performance and industry analysis of Lamb Weston to assess its financial health, competitive positioning, and market resilience. The project involved a detailed financial benchmarking against industry leaders like Kraft Heinz, focusing on profitability, liquidity, solvency, and operational efficiency.
+
+**🧠 Key Responsibilities & Skills Demonstrated:**
+
+**Financial Data Analysis & Reporting:**
+
+Analyzed historical financial data to prepare financial statements and derive actionable insights, ensuring alignment with US GAAP reporting standards.
+
+Developed a detailed report summarizing financial performance, uncovering key business drivers, and providing insights for improving operational effectiveness and market competitiveness.
+
+**Industry & Competitive Benchmarking:**
+
+Executed a five-year time-series analysis and cross-sectional benchmarking, evaluating critical financial metrics such as profitability, liquidity, solvency, and operating cycle efficiency.
+
+Benchmarked Lamb Weston against industry leaders like Kraft Heinz to assess competitive advantage and market positioning.
+
+**Strategic Insights & Recommendations:**
+
+Delivered a professional report outlining key financial insights, identifying areas for improvement, and recommending strategies to optimize financial health and market competitiveness.
+
+Presented actionable recommendations for strategic decision-making to align Lamb Weston with industry best practices.
+
+**✅ Key Outcomes:**
+
+Successfully assessed Lamb Weston’s financial performance against industry standards, providing clear insights into profitability, liquidity, and competitive positioning.
+
+Delivered a professional report with strategic recommendations for improving financial health and operational effectiveness.
+
+Enabled data-driven decision-making to optimize Lamb Weston’s performance in a competitive market.
+
+**💻 Tools Used:**
+
+*Excel: Utilized for financial analysis, benchmarking, and report preparation.
+*GAAP Standards: Applied to ensure compliance with financial reporting standards.
+
+
+#FinancialAnalysis #IndustryBenchmarking #LambWeston #FinancialPerformance #GAAPCompliance #Profitability #Liquidity #StrategicInsights #OperationalEfficiency #MarketCompetitiveness #FinancialReporting #TimeSeriesAnalysis #KraftHeinz #BusinessIntelligence #DataDrivenDecisionMaking
+
+**Note:** This repository contains the analysis of pharmacy store performance. The dataset for this analysis is too large to be included directly in the repository. You can download the data from the following Google Drive link: 
+
+[Download Data] https://drive.google.com/drive/folders/1wC1mq269gJLXZ6qsA4HbPVGi37whl8TP?usp=sharing
