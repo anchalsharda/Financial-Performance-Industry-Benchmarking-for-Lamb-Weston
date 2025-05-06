@@ -40,4 +40,4 @@ Enabled data-driven decision-making to optimize Lamb Weston’s performance in a
 
 **Note:** This repository contains the analysis of pharmacy store performance. The dataset for this analysis is too large to be included directly in the repository. You can download the data from the following Google Drive link: 
 
-[Download Data] https://drive.google.com/drive/folders/1wC1mq269gJLXZ6qsA4HbPVGi37whl8TP?usp=sharing
+[Download Data] https://drive.google.com/drive/folders/1Lxxpul1bWLPFyD3zEyPvueOC5dLwqp8T?usp=sharing
